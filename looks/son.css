@@ -1,0 +1,19 @@
+#foto {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 50vh;           /* Take the full viewport height */
+}
+#text {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 1vh;           /* Take the full viewport height */
+}
+#paragraph {
+    text-align: center;
+    display:flex;
+    justify-content:center;
+    height: 10vh;
+    
+}
